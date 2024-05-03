@@ -1,3 +1,3 @@
 Ola, sou andreza
 
-Sou uma esstudante da Alura
+Sou uma estudante da Alura
